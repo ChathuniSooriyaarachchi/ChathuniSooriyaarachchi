@@ -55,12 +55,12 @@
   </a>
 </p>
 
-<!-- Profile visit count -->
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=chathunisoori&icon=3&color=6">
-  </a>
-</div>
+<h3 align="left">Badges:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-Expert-orange" alt="Java Expert">
+  <img src="https://img.shields.io/badge/Python-Intermediate-yellow" alt="Python Intermediate">
+  <img src="https://img.shields.io/badge/React-Beginner-blue" alt="React Beginner">
+</p>
 
 <!-- Horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="display: block; margin: auto;">
